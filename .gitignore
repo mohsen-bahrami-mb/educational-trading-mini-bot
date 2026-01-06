@@ -40,3 +40,6 @@ __pycache__/
 *.egg-info/
 *.egg
 
+# GitHub-specific instructions (AI agent guidance)
+.github/*instructions.md
+
